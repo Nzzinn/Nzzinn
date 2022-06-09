@@ -4,7 +4,7 @@
      -->
 # </Hello World>
 
-- Trabalho atualmente em: MaxxiSeg;
+- Trabalho atualmente em: MaxxiSeg Assessoria e Treinamentos;
 - Entre em contato por:
     Email: nf2086@gmail.com;
     Discord: !nathanzin.sx#2306;
