@@ -13,7 +13,7 @@
     <img height="180" width="48%" src="https://github-readme-stats.vercel.app/api?username=Nzzinn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzzinn&langs_count=12&include_all_commits=true&count_private=true&layout=compact&theme=dracula"/>
 </div>
-
+<!--
 <div style="display: inline_block"><br>
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -32,8 +32,7 @@
     
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://github.com/nf2086.png">
 </div>
-
-    
+-->
     
   ##
 
