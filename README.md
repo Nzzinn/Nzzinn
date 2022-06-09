@@ -7,7 +7,7 @@
 - Trabalho atualmente em: MaxxiSeg Assessoria e Treinamentos;
 - Entre em contato por:
     Email: nf2086@gmail.com;
-    Discord: !nathanzin.sx#2306;
+    Discord: Nzzinn.js#2306;
 
 <div align="center">
     <img height="180" width="48%" src="https://github-readme-stats.vercel.app/api?username=Nzzinn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
