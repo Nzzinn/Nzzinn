@@ -4,7 +4,7 @@
      -->
 # </Hello World>
 
-- Trabalho atualmente em: MaxxiSeg Assessoria e Treinamentos;
+- Trabalho atualmente em: Tata Consultancy Services;
 - Entre em contato por:
     Email: nf2086@gmail.com;
     Discord: Nzzinn.js#2306;
